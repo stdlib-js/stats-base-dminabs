@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import dminabs from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dminabs@esm/index.mjs';
+import dminabs from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dminabs@v0.2.1-esm/index.mjs';
 ```
 
 #### dminabs( N, x, stride )
@@ -161,7 +161,7 @@ var v = dminabs.ndarray( N, x, 2, 1 );
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@esm/index.mjs';
 import Float64Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float64@esm/index.mjs';
-import dminabs from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dminabs@esm/index.mjs';
+import dminabs from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dminabs@v0.2.1-esm/index.mjs';
 
 var x;
 var i;
